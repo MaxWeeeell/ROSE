@@ -7,6 +7,8 @@
 pip install -r requirements.txt
 ```
 
+### Prepare dataset
+Create a seperate folder **./data** and put all the csv dataset files in the directory.
 
 ### Finetune
 
